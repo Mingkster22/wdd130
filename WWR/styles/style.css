@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+/* <!DOCTYPE html>
 <body> 
     <div id="content">
         <header>
@@ -20,46 +20,43 @@
     <a> class='join' href="rivers.html">Join Us</a>
 </section>
 </body>
-<canvas id="myCanvas" width="200" height="200" style="border:1600px solid">
+<canvas id="myCanvas" width="200" height="200" style="border:1600px solid"> */
 p {
-    margin: 25px 50px 75px 100px;
+  margin: 25px 50px 75px 100px;
 }
 
-nav a
-#hero-msg h1, #hero-msg h4
-.button-box
-main section
- {
-    height: 725px;
+nav a #hero-msg h1,
+#hero-msg h4 .button-box main section {
+  height: 725px;
 }
 body {
-    background-color: #fcfbfb; 
+  background-color: #fcfbfb;
 }
 header {
-    background-color:rgba(20,30,13, .7);
+  background-color: rgba(20, 30, 13, 0.7);
 }
 nav a:hover {
-    background-color: black;
+  background-color: black;
 }
-.book { background-color:606c38
-
+.book {
+  background-color: 606c38;
 }
 
-.join{ background-color:283618
-
+.join {
+  background-color: 283618;
 }
-.book:hover{ background-color: fefae0
-
-} 
-.join:hover{ background-color: dda15e
-
+.book:hover {
+  background-color: fefae0;
 }
-.background{ background-color: 264653   
-
+.join:hover {
+  background-color: dda15e;
 }
-.msg{ background-color: 2a9d8f
-
+.background {
+  background-color: 264653;
 }
-.footer{ background-color: e9c46a
-
+.msg {
+  background-color: 2a9d8f;
+}
+.footer {
+  background-color: e9c46a;
 }
