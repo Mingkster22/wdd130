@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap");
+header {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+body {
+  color: #d8d0c1;
+  background-color: #4a4063;
+  font-family: "Source Sans Pro", sans-serif;
+  text-align: center;
+}
+a {
+  color: #d8d0c1;
+}
+p {
+  margin: 20px 100px;
+}
+footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.Body_image {
+  width: 400px;
+}
